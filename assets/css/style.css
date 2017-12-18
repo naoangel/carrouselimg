@@ -1,0 +1,65 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	font-family: 'Barlow', sans-serif; 
+}
+header{
+	background-color: #FCFAFA;
+	height: 10vh; 
+	text-align: center;
+}
+
+header h1{
+	color:#AFADAD;
+  padding: 2vh;
+
+}
+
+section {
+	height: 90vh;
+	background-color: #AFADAD;
+}
+
+
+#imagebox{
+	background-color: #FCFAFA;
+	height: 60vh;
+	width: 80vh;
+	padding-top:30vh;
+	padding-left: 10vh;
+	border-radius: 5px;
+}
+
+#images {
+	height: 80%;
+	width: 90%;
+	text-align: center;
+}
+
+#img1{
+	background-image: url(../img/7194a371daf8c473e68040926f4651f8.jpg);
+}
+
+#img2{
+	background-image: url(../img/minimalarchitecture.jpg);
+}
+
+#img3{
+	background-image: url(../img/l.jpg);
+}
+
+#img4{
+	background-image: url(../img/Minimal-Leaf-Pattern.jpg);
+}
+
+#img5{
+	background-image: url(../img/V1-1-600x500.jpg);
+}
+
+
+.fa-circle{
+	color: #AFADAD;
+	size: 2vh;
+
+}
